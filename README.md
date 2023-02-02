@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @Hard-007
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and web/app developing
+
+        *       *   * * * *   * * * *   * * * *
+        *       *   *     *   *     *   *      *
+        * * * * *   * * * *   * * *     *       *
+        *       *   *     *   *     *   *       *
+        *       *   *     *   *     *   *      *
+        *       *   *     *   *     *   * * * * 
+
+- ☕ Forever student cuz programming is hard 🥲
+- 🌱 I’m currently studing JS/TS and Web developing
 
 <!---
 Hard-007/Hard-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
