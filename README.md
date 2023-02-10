@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @Hard-007
 
-        *       *   * * * *   * * * *   * * * *
-        *       *   *     *   *     *   *      *
-        * * * * *   * * * *   * * *     *       *
-        *       *   *     *   *     *   *       *
-        *       *   *     *   *     *   *      *
-        *       *   *     *   *     *   * * * * 
+        *       *   * * * *   * * * *   * * * *         * * * * *   * * * * *   * * * * *
+        *       *   *     *   *     *   *      *        *       *   *       *          *
+        * * * * *   * * * *   * * *     *       *       *       *   *       *         *
+        *       *   *     *   *     *   *       *       *       *   *       *       *
+        *       *   *     *   *     *   *      *        *       *   *       *      *
+        *       *   *     *   *     *   * * * *         * * * * *   * * * * *     *
 
-- ☕ Forever student cuz programming is hard 🥲
+- ☕ I'm a forever student because programming is hard lol
 - 🌱 I’m currently studing JS/TS and Web developing
 
 <!---
