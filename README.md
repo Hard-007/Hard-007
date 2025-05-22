@@ -1,14 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&width=440&lines=Hi%2C+I'm+Alfeu+Xerinda;Software+Engineer+%26+Developer;PWA+Specialist+%7C+Systems+Designer;Top+3+CS+Student+%40+UP+Maputo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&width=440&lines=Hi%2C+I'm+AlfeuX(hard.0_0.7);Software+Engineer+%26+Developer;)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Focus**: Building scalable PWAs and teaching tech as **GDSC Lead**
-- 🎓 **Computer Science** student at Universidade Pedagógica de Maputo (**Top 3 in Class**)
-- 🏆 **Achievements**:
-  - Developed Universidade Pedagógica's **first PWA** (SIGESH)
-  - Reduced browser dependency by **90%** through offline-first engineering
-  - Mentored **150+ students** through GDSC/MOZDEVZ
+- 🔭 **Current Focus**: Building scalable software
+- 🎓 **Computer Science** student at Universidade Pedagógica de Maputo
 - ☕ **Philosophy**: *"Engineering solves problems; development brings solutions to life."*
 
 ---
@@ -28,15 +24,6 @@
 #### **Design & Tools**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🌟 Featured Projects
-| Project | Tech Stack | Highlights |
-|---------|------------|------------|
-| **[SIGESH PWA](https://github.com/Hard-007/SIGESH)** | Laravel, Tailwind, Ubuntu | Universidade Pedagógica's first PWA (90% ↓ browser dependency) |
-| **[Dondza EdTech](https://github.com/Hard-007/Dondza)** | React, PHP, Chart.js | Adaptive learning platform for 500+ users |
-| **[SIGEAQ Dashboard](https://github.com/Hard-007/SIGEAQ)** | Laravel, MySQL | Reduced audit time by 40% |
 
 ---
 
