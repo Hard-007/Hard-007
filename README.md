@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&width=440&lines=Hi%2C+I'm+AlfeuX(hard.0_0.7);Software+Engineer+%26+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&width=440&lines=Hi%2C+I'm+AlfeuX(hard.0_0.7);Software+Engineer+%26+Developer+;)](https://git.io/typing-svg)
 
 ---
 
