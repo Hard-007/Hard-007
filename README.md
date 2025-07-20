@@ -10,31 +10,25 @@
 ---
 
 ### 🛠️ **Skills**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,c,cpp,java,cs,php,mysql,linux,ubuntu,apache,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,c,cpp,java,cs,php,py,sql,linux,ubuntu,apache,nginx)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libs
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,spring,vite,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,spring,vite,tailwind,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman,notion)](https://skillicons.dev)
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hard-007.Hard007&left_color=darkviolet&right_color=orchid" width="80" />
-</div>
-
 ### 📊 **GitHub Stats**  
-<div align="center">
-  <a href="https://github.com/Hard-007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
 
 <div align="center">
   
-  [![Hard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Hard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=0068ff&line=0068ffc&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<a href="https://github.com/Hard-007">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
   <img src="https://streak-stats.demolab.com?user=Hard-007&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=Hard-007&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
@@ -53,8 +47,9 @@
 
 ---
 
-### 🏆 **Featured Projects**  
-- **[SIGESH](https://github.com/Hard-007/SIGESH)**: Universidade Pedagógica de Maputo first PWA (Laravel/Ubuntu).   
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hard-007.Hard007&left_color=darkviolet&right_color=orchid" width="80" />
+</div>
 
 <!---
 Hard-007/Hard-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
