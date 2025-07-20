@@ -6,10 +6,14 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
+<div> 
 - ☕ **Forever Learner**: Obsessed with bridging engineering principles (SDLC, UML) with clean code.  
 - 🌱 **Current Focus**: Scaling PWAs & optimizing Ubuntu deployments.  
 - 🚀 **Mission**: Building tech that solves real problems in Mozambican education.  
+</div>
+
+<p align="left">
+
 </p>
 ---
 
