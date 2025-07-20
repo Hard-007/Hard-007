@@ -4,7 +4,7 @@
 
 ### 🔭 **About Me**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
 - ☕ **Forever Learner**: Obsessed with bridging engineering principles (SDLC, UML) with clean code.  
 - 🌱 **Current Focus**: Scaling PWAs & optimizing Ubuntu deployments.  
@@ -16,6 +16,7 @@
 <p align="left">
 
 </p>
+
 ---
 
 ### 🛠️ **Skills**  
