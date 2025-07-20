@@ -9,20 +9,17 @@
 - ☕ **Forever Learner**: Obsessed with bridging engineering principles (SDLC, UML) with clean code.  
 - 🌱 **Current Focus**: Scaling PWAs & optimizing Ubuntu deployments.  
 - 🚀 **Mission**: Building tech that solves real problems in Mozambican education.
-- **Values**: 
-- **Principles**:
-- **...**
 
 ---
 
 ### 🛠️ **Skills**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,c,cpp,java,cs,php,py,sql,linux,ubuntu,apache,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,jquery,c,cpp,java,cs,php,py)](https://skillicons.dev)
 
 ### 🚀 Frameworks & Libs
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,laravel,dotnet,spring,vite,tailwind,mysql,postgres)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman,notion,linux,ubuntu,nginx)](https://skillicons.dev)
 
 ---
 
@@ -30,7 +27,7 @@
 
 <div align="center">
   
-  [![Hard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Hard-007 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Hard-007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=8&theme=radical"/>
