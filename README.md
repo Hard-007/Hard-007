@@ -3,10 +3,14 @@
 ---
 
 ### 🔭 **About Me**
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
 - ☕ **Forever Learner**: Obsessed with bridging engineering principles (SDLC, UML) with clean code.  
 - 🌱 **Current Focus**: Scaling PWAs & optimizing Ubuntu deployments.  
 - 🚀 **Mission**: Building tech that solves real problems in Mozambican education.  
-
+</p>
 ---
 
 ### 🛠️ **Skills**  
@@ -27,7 +31,7 @@
   [![Hard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Hard-007">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=8&theme=radical"/>
   </a>
   <img src="https://streak-stats.demolab.com?user=Hard-007&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="180em" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=Hard-007&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
