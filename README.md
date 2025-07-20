@@ -13,10 +13,6 @@
 - **Principles**:
 - **...**
 
-<p align="left">
-
-</p>
-
 ---
 
 ### 🛠️ **Skills**  
