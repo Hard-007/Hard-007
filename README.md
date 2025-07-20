@@ -10,6 +10,7 @@
 ---
 
 ### 🛠️ **Tech Stack**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
 <div style="display: flex; gap: 10px; flex-wrap: wrap;"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="40" align="center" title="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="40" align="center" title="JavaScript"/>
