@@ -24,7 +24,7 @@
 
 <div align="center">
   
-  [![Hard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=0068ff&line=0068ffc&point=0068ff&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Hard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0068ff&color=0068ff&line=0068ffc&point=0068ff&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Hard-007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=7&theme=dracula"/>
