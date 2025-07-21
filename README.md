@@ -4,16 +4,12 @@
 
 ### 🔭 **About Me**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
 
 - ☕ **Forever Learner**: Self-taught and obsessed with bridging engineering principles (SDLC, UML) with clean code. Top 10 "Mozambican <a href="https://sololearn.com" target="_blank"> Sololearner </a>" in 2022.   
-
 - 🌱 **Current Focus**: Scaling Progressive Web Apps (PWAs) and learning a lot of stuff, with a keen interest in UI/UX Design.   
-
 - 🚀 **Mission**: Building tech that solves real problems, actively engaged in communities like MOZDEVZ and GDSC's.   
-
 - 🗣️ **Languages**: Fluent in Portuguese (native), English (B1), and Spanish (A1), with an interest in Japanese and French.   
-
 - 🎨 **Hobbies**: When not coding, I enjoy reading, writing, drawing, watching animes and Sci-Fi.
 
 ---
