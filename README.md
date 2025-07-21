@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&random=false&width=440&lines=Hi%2C+I+am+Hard+007;Software+Engineer+%26+Developer;PWA+%7C+System+Design+Enthusiast;Building+Scalable+Solutions+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2F81F7&random=false&width=440&lines=Hi%2C+I+am+Hard+007;Software+Development+Engineer;UX/UI+Enthusiast;Building+Scalable+Solutions+)](https://git.io/typing-svg)
 
 ---
 
@@ -6,9 +6,15 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="200px" width="200px" align="right">
 
-- ☕ **Forever Learner**: Obsessed with bridging engineering principles (SDLC, UML) with clean code.  
-- 🌱 **Current Focus**: Scaling PWAs & optimizing Ubuntu deployments.  
-- 🚀 **Mission**: Building tech that solves real problems in Mozambican education.
+- ☕ **Forever Learner**: Self-taught and obsessed with bridging engineering principles (SDLC, UML) with clean code. Top 10 "Mozambican <a href="https://sololearn.com"> Sololearner </a>" in 2022.   
+
+- 🌱 **Current Focus**: Scaling Progressive Web Apps (PWAs) and learning a lot of stuff, with a keen interest in UI/UX Design.   
+
+- 🚀 **Mission**: Building tech that solves real problems, actively engaged in communities like MOZDEVZ and GDSC's.   
+
+- 🗣️ **Languages**: Fluent in Portuguese (native), English (B1), and Spanish (A1), with an interest in Japanese and French.   
+
+- 🎨 **Hobbies**: When not coding, I enjoy reading, writing, drawing, watching animes and Sci-Fi.
 
 ---
 
