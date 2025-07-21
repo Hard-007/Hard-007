@@ -4,7 +4,7 @@
 
 ### 🔭 **About Me**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - ☕ **Forever Learner**: Self-taught and obsessed with bridging engineering principles (SDLC, UML) with clean code. Top 10 "Mozambican <a href="https://sololearn.com" target="_blank"> Sololearner </a>" in 2022.   
 - 🌱 **Current Focus**: Scaling Progressive Web Apps (PWAs) and learning a lot of stuff, with a keen interest in UI/UX Design.   
