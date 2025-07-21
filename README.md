@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  [![Hard-007 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Hard-007 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hard-007&bg_color=0d1117&color=2F81F7&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/Hard-007">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hard-007&layout=compact&langs_count=8&theme=radical"/>
